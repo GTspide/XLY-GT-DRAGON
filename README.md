@@ -22,9 +22,9 @@
 
 #❤️💐CREDITS💐❤️
 
-💐[🤴💔LONELYBOY💔](http://t.me/sarbudeen786)
+💐[🤴💔LONELYBOY💔](http://t.me/Horimaya)
 
-💐[GT ASH SPIDER](https://t.me/Kittu_the_criminal)
+💐[GT ASH SPIDER](https://t.me/GT_SPIDER)
 
 
 
