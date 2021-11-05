@@ -7,8 +7,6 @@
 
 ## Dᴇᴘᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To-Heroku-blueviolet)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https://github.com/GTspide/xly gt bot7)
-
 ## Mᴀᴅᴇ Bʏ
 
 <a href="https://t.me/thanimaibots/17"> <img src="https://img.shields.io/badge/This%20Bot%20Was-Made%20By%20My-orange" /> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
@@ -24,9 +22,9 @@
 
 #❤️💐CREDITS💐❤️
 
-💐[🤴💔LONELYKING💔🤴](http://t.me/sarbudeen786)
+[GT ASH](http://t.me/GT_SPIDER)
 
-💐[🕊️⃝‌⭕ᯱꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋK𝖎𝖙𝖙T𝖚𝖙𝖍𝖊M𝖊⭕𝖜o](https://t.me/Kittu_the_criminal)
+[LOVELY BOY](https://t.me/HORIMAYA)
 
 
 
