@@ -5,9 +5,7 @@
 
 * ᴏʀɪɢɪɴᴀʟʟʏ ᴀ sɪᴍᴘʟᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴍᴜʟᴛɪᴘʟᴇ ᴀᴅᴍɪɴ ғᴇᴀᴛᴜʀᴇs, ɪᴛ ʜᴀs ᴇᴠᴏʟᴠᴇᴅ ɪɴᴛᴏ ʙᴇᴄᴏᴍɪɴɢ ᴀ ʙᴀsɪs ғᴏʀ ᴍᴏᴅᴜʟᴀʀ ʙᴏᴛs ᴀɪᴍɪɴɢ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ sɪᴍᴘʟᴇ ᴘʟᴜɢɪɴ ᴇxᴘᴀɴsɪᴏɴ ᴠɪᴀ ᴀ sɪᴍᴘʟᴇ ᴅʀᴀɢ ᴀɴᴅ ᴅʀᴏᴘ.[check me](http://t.me/Gt_drago_bot).
 
-## Dᴇᴘᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
-
-[![Deploy](https://img.shields.io/badge/Deploy%20To-Heroku-blueviolet)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https://github.com/GTspide/xly gt bot7)
+## Dᴇᴘᴏʏ Tᴏ
 
 ## Mᴀᴅᴇ Bʏ
 
